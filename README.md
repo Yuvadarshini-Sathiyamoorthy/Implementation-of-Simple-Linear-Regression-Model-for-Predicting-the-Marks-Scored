@@ -1,17 +1,18 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
-## AIM:
+## Aim:
 To write a program to predict the marks scored by a student using the simple linear regression model.
 
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
+## Algorithm:
+1. Import the required libraries and read the dataframe.
+2. Assign hours to X and scores to Y.
+3. Implement training set and test set of the dataframe
+4. Plot the required graph both for test data and training data.
+5. .Find the values of MSE , MAE and RMSE.
 
 ## Program:
 ```
@@ -81,15 +82,15 @@ print('RMSE',rmse)
 ```
 
 ## Output:
-![image](s1.jpg)
-![image](s2.jpg)
-![image](s3.jpg)
-![image](s4.jpg)
-![image](s5.jpg)
-![image](s6.jpg)
-![image](s7.jpg)
-![image](s8.jpg)
-![image](s9.jpg)
+![s1](https://user-images.githubusercontent.com/93482485/228900151-c14c3a85-8fdf-4e71-8373-dd1a993cbe15.jpg)
+![s2](https://user-images.githubusercontent.com/93482485/228900278-2d8fe404-e60c-4052-8296-8252e8009617.jpg)
+![s3](https://user-images.githubusercontent.com/93482485/228900295-2ff58552-36cf-4d40-9d44-62eb42f5dce6.jpg)
+![s4](https://user-images.githubusercontent.com/93482485/228900323-37c9506b-6c1d-460e-afa4-20149a6b32fa.jpg)
+![s5](https://user-images.githubusercontent.com/93482485/228900355-797a71a6-9abf-48f6-8ddb-d4b87546ece2.jpg)
+![s6](https://user-images.githubusercontent.com/93482485/228900383-9f7eab1e-d983-4172-bcfe-fb7122b691c4.jpg)
+![s7](https://user-images.githubusercontent.com/93482485/228900423-f959fe5f-9417-4674-bdc7-8900aac9753c.jpg)
+![s8](https://user-images.githubusercontent.com/93482485/228900458-41836277-ba92-4e86-8d77-01f95d5b7c1c.jpg)
+![s9](https://user-images.githubusercontent.com/93482485/228900486-25d7de5b-25d8-4ca7-a4ed-5633db0a5b75.jpg)
 
 
 
