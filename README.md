@@ -88,25 +88,25 @@ print('RMSE',rmse)
 ### df.tail()
 ![s2](https://user-images.githubusercontent.com/93482485/228900278-2d8fe404-e60c-4052-8296-8252e8009617.jpg)
 
-### x values
+### Array value of x
 ![s3](https://user-images.githubusercontent.com/93482485/228900295-2ff58552-36cf-4d40-9d44-62eb42f5dce6.jpg)
 
-### y values
+### Array value of y
 ![s4](https://user-images.githubusercontent.com/93482485/228900323-37c9506b-6c1d-460e-afa4-20149a6b32fa.jpg)
 
-### y_pred
+### Value of y prediction
 ![s5](https://user-images.githubusercontent.com/93482485/228900355-797a71a6-9abf-48f6-8ddb-d4b87546ece2.jpg)
 
-### y_test
+### Array values of y test
 ![s6](https://user-images.githubusercontent.com/93482485/228900383-9f7eab1e-d983-4172-bcfe-fb7122b691c4.jpg)
 
-### training data plot
+### Training Set Graph
 ![s7](https://user-images.githubusercontent.com/93482485/228900423-f959fe5f-9417-4674-bdc7-8900aac9753c.jpg)
 
-### test data plot
+### Test Set Graph
 ![s8](https://user-images.githubusercontent.com/93482485/228900458-41836277-ba92-4e86-8d77-01f95d5b7c1c.jpg)
 
-### values of MSE, MAE, RMSE
+### Values of MSE, MAE and RMSE
 ![s9](https://user-images.githubusercontent.com/93482485/228900486-25d7de5b-25d8-4ca7-a4ed-5633db0a5b75.jpg)
 
 
